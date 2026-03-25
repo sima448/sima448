@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sima Kumari 👋
 
-<!--
-**sima448/sima448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+💡 Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning Programming & Development  
+- 💻 Interested in Software Development  
+- 🎯 Goal: To become a skilled Software Engineer  
+
+---
+
+## 🛠️ Skills
+- Python  
+- C++  
+- DSA (Basics)  
+
+---
+
+## 🌐 Connect with me
+- GitHub: https://github.com/sima448
