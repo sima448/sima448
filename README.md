@@ -16,7 +16,12 @@
 ## 🛠️ Skills
 - C++  
 - Python  
-- DSA (Basics)  
+- DSA (Basics)
+- Web Development (HTML, CSS, JS)
+- Node.js, Express.js
+- SQL, MongoDB
+- Git & GitHub
+- Python Projects
 
 ---
 
