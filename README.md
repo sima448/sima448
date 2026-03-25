@@ -14,8 +14,8 @@
 ---
 
 ## 🛠️ Skills
-- Python  
 - C++  
+- Python  
 - DSA (Basics)  
 
 ---
