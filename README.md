@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi, I'm Sima Kumari 👋
 
 💻 Aspiring Software Developer  
